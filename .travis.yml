@@ -1,8 +1,6 @@
-sudo: false
 language: node_js
 node_js:
-  - "0.12"
-  - "0.11"
   - "0.10"
+  - "0.12"
   - "iojs"
-  script: npm run ci
+script: npm run ci
