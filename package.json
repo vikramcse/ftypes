@@ -1,0 +1,24 @@
+{
+  "name": "ftypes",
+  "version": "1.0.0",
+  "description": "Get a list of file extension's of a specified directory path",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "keywords": [
+    "extensions",
+    "files"
+  ],
+  "author": {
+    "name": "Vikram Jadhav",
+    "email": "vikramcse.10@gmail.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "author": "Vikram Jadhav",
+  "license": "MIT",
+  "devDependencies": {
+    "should": "^7.1.1"
+  }
+}
